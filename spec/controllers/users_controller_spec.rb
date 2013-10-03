@@ -1,5 +1,3 @@
-# Andrew Burke
-
 require 'spec_helper'
 
 describe UsersController do
